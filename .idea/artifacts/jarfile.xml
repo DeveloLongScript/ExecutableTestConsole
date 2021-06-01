@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact name="jarfile">
+    <output-path>$PROJECT_DIR$/out/artifacts/jarfile</output-path>
+    <root id="root">
+      <element id="archive" name="jarfile.jar">
+        <element id="directory" name="META-INF">
+          <element id="file-copy" path="$PROJECT_DIR$/META-INF/MANIFEST.MF" />
+        </element>
+        <element id="library" level="project" name="Maven: com.diogonunes:JColor:5.0.1" />
+        <element id="module-output" name="ExecutableConsole" />
+      </element>
+    </root>
+  </artifact>
+</component>
